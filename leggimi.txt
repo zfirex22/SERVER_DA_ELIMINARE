@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 qua trovi tutte le istruzioni cambio modifica
 
 prova (giorgio)
 
 push 2 (giorgio)
+=======
+qua trovi tutte le istruzioni cambio modifica  Fulvia ultima modifica
+>>>>>>> c4d4ab7ae8180b90baa55ce0d5e083fc55bce830
